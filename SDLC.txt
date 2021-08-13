@@ -1,0 +1,29 @@
+﻿SDLC:- The software development models are the various processes or methodologies that are being selected for the development of the project depending on the project's aims and goals. There are many development life cycle models that have been developed in order to achieve different required objectives. There are many types of software developments models that are give below:
+Waterfall model. 
+    • Waterfall model 
+    • Agile model 
+    • Iterative model 
+    • Spiral model 
+Server:-A server is a piece of computer hardware or software that provides functionality for other programs or devices, called client. This architecture is called the client-server-model. Servers can provide various functionalities, often called "services", such as sharing data or resources among multiple clients, or performing computationfor a client.
+      
+      Frontend:-A front endis the GUI of a computer that makes it easier to use. For example, Webpages of websites. These are the some front-end languages.
+    • HTML.
+    • CSS.
+    • Javascript.
+
+Backend:-Backend development languages handle the ‘behind-the-scenes’ functionality of web applications. It’s code that connects the web to a database, manages user connections, and powers the web application itself
+These are the some Backend languages.
+    • Python
+    • Java.
+    • C#.
+    • Ruby.
+Root cause analysis:- Root cause analysis (RCA) is a systematic process for identifying “root causes” of problems or events and an approach for responding to them.
+
+Functional testing:- It is a type of testing which verifies that each function of the software application operates in conformance with the requirement specification. This testing mainly involves black box testing, and it is not concerned about the source code of the application.
+
+Non-functional testing:- is a type of testing to check non-functional aspects like performance, usability, reliability, etc. of a software application. It is explicitly designed to test the readiness of a system as per nonfunctional parameters which are never addressed by functional testing. 
+
+Docker container:- A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+
+Sprint in Agile:- A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.
+
