@@ -16,7 +16,7 @@ class FileOps:
 	# class Testing(unittest.TestCase):
 	# 	def tes_user_name(self):
 	# 		self.assertEqual(display_names(),"yakul Khajuria")
-
+	# Remove extra comments -- (REMOVE)
 	def display_names(self,users_foldere):
 		'''This function read all the names from different files and 
 		give one list of all the names '''
@@ -33,6 +33,9 @@ class FileOps:
 
 	def gen_UUID(self , user):
 		# to generate unique id
+		"""
+		comment inside function should be in doc string
+		"""
 		return user[0]+str(uuid.uuid1())
 
 
@@ -67,6 +70,7 @@ if __name__=="__main__":
 	users_folder = PWD+'/users/'
 	user_names_list = []
 	user_info = []
+	# Remove unwanted comments - (REMOVE)
 	# import pdb; pdb.set_trace()
 	object=FileOps()
 	object.generate_user_date()
